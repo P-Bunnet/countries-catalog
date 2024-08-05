@@ -1,16 +1,7 @@
-
-
+import CountryPage from "./pages/CountryPage";
 
 function App() {
-
-
-  return (
-  
-     <h1 className="text-xl font-bold text-red-900">
-      asdasd
-     </h1>
-
-  )
+  return <CountryPage />;
 }
 
-export default App
+export default App;
